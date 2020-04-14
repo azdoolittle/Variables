@@ -2,7 +2,7 @@ public class Variables
 {
     public static void main(String[] argv)
     {
-        byte testScore = 127;
+        int testScore = 127;
         float price = 9.99f;
         String username = "myUsername";
 
